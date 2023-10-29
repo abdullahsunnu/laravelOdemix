@@ -1,0 +1,7 @@
+.item:hover:not(.installment-item){
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.installment-item:hover > .installment-selector {
+    background-color: rgba(0, 0, 0, 0.5);
+}
